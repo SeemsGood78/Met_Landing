@@ -6,10 +6,10 @@ This project is a front-end implementation of a landing page for **The MET**, ba
 **Live Demo:** [View the live website here](https://seemsgood78.github.io/layout_landing-page/)
 
 ## Design Reference
-**Figma Link:** [The MET Design]([https://www.figma.com/file/1SR1m42L9YwzQwzzzKwHpw/THE-MET](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET))
+**Figma Link:** [The MET Design](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
 *Note: The implementation is a simplified version of the design, focusing on structural accuracy rather than pixel-perfection.*
 
-## Technologies Used 💻
+## Technologies Used
 
 **Core**
 * **HTML5** — Semantic markup.
